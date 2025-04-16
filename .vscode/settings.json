@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "array": "c",
+        "*.tcc": "c",
+        "deque": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "iterator": "c",
+        "string_view": "c",
+        "algorithm": "c",
+        "memory": "c",
+        "initializer_list": "c",
+        "numeric": "c",
+        "utils.h": "c"
+    }
+}

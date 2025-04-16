@@ -21,6 +21,7 @@ NAME=$(shell pwd | xargs -I{} basename "{}")
 CC=gcc
 AR=ar
 ARFLAGS=rcs
+LDFLAGS = -lcommons
 MAKE=make --no-print-directory
 
 # Set prerrequisites
